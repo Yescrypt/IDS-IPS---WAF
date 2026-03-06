@@ -77,8 +77,6 @@ That's it. The installer will ask you **3 questions**:
       (Get it: open @userinfobot in Telegram, send /start)
   > 123456789
 
-  ? Firewall backend [auto / iptables / ufw / ipset]:
-  > auto
 ```
 
 Then it will:
